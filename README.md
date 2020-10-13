@@ -1,3 +1,4 @@
 # terraform_azure_ansible
-Deploy azure with terraform and ansible for RabbitMQcluster
+Deploy azure virtual machine with terraform and ansible for RabbitMQcluster application server
 -
+
