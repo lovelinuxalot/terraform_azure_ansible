@@ -2,7 +2,7 @@
 # tasks file for admin_user
 - name: Add a new user named 'hakase' with password
   command:
-    cmd: sudo rabbitmqctl add_user hakase aqwew123@
+    cmd: sudo rabbitmqctl add_user hakase Welcome@rmqc
 
 - name: Setup the 'hakase' user as an administrator.
   command:
